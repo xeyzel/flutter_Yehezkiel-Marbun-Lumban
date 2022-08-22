@@ -1,3 +1,5 @@
 void main(List<String> args) {
-  var name = 'Fernar';
+  var name1 = 'Fernar';
+
+  var name2 = 'Regie';
 }
